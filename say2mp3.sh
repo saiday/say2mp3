@@ -13,4 +13,4 @@ lame --quiet -m m "$aiffm" "$mp3m"
 rm -rf "$aiffm"
 rm -rf "$file"
 
-echo "Writed" $mp3m
+echo "Wrote" $mp3m
